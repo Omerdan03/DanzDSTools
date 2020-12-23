@@ -1,7 +1,7 @@
 # DanzDSTools
 
 
-This repo cantained basic tools for data sciance.
+This repo cantained basic tools for data science.
 
 ## SQL tools - 
 connect_to_mysql
