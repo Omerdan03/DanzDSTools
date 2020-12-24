@@ -1,23 +1,18 @@
 # DanzDSTools
 
 
-This repo cantained basic tools for data sciance.
+This repo cantained basic tools for data science.
 
-## SQL tools - 
-connect_to_mysql
-
-send_statement
-
-get_tables
-
-get_columns
-
-get_table_as_df
-
-get_quarry
+## SQL tools : 
+- connect_to_mysql
+- send_statement
+- get_tables
+- get_columns
+- get_table_as_df
+- get_quarry
 
 
-## EDA tools -
+## EDA tools :
 Basic EDA workflow
 
 get_numerical_categorical - basic separation for numerial/ categorical features
@@ -35,7 +30,32 @@ plotting functions
  - categorical + categorical 
 
 
-## preprossesing tools - working progress
+## preprossesing tools - working progress :
 
-## modles - very basic
-plot_confusion_matrix
+## Feature engineering : 
+
+ - feature selection
+ - Dimensionlity Reduction with PCA
+ - 
+
+
+## modle selection :
+ - cross validation
+ - grid search
+ - random search
+
+##  Classification tools : 
+ - roc curve
+ - confusion matrix
+ - simple random forest classifier
+ 
+## Regression tools :
+ - Linear Regresion
+ - Polyunomial Regression
+ - print metrics
+ 
+## Unsupervised learning :
+ - number clusters (Elbow method)
+ - print clusters on 2 PCA
+ - Anomaly detection (local outlier and Isolation forest)
+
