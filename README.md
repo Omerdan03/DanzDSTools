@@ -1,3 +1,6 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+
+
 # DanzDSTools
 
 
@@ -14,7 +17,7 @@ This repo cantained basic tools for data science.
 
 ## EDA tools :
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/omerdan03/danzdstools/blob/main/EDA_tools.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/omerdan03/danzdstools/blob/master/EDA_tools.ipynb)
 
 Basic EDA workflow
 
@@ -35,11 +38,11 @@ plotting functions
 
 ## preprossesing tools - working progress :
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/omerdan03/danzdstools/blob/main/Preprossessing_tools.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/omerdan03/danzdstools/blob/master/Preprossessing_tools.ipynb)
 
 ## Feature engineering : 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/omerdan03/danzdstools/blob/main/Feature_engineering.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/omerdan03/danzdstools/blob/master/Feature_engineering.ipynb)
 
  - feature selection
  - Dimensionlity Reduction with PCA
@@ -48,7 +51,7 @@ plotting functions
 
 ## modle selection :
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/omerdan03/danzdstools/blob/main/Model_selection.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/omerdan03/danzdstools/blob/master/Model_selection.ipynb)
 
 
  - cross validation
@@ -57,7 +60,7 @@ plotting functions
 
 ##  Classification tools : 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/omerdan03/danzdstools/blob/main/Classification_tools.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/omerdan03/danzdstools/blob/master/Classification_tools.ipynb)
 
 
  - roc curve
@@ -66,7 +69,7 @@ plotting functions
  
 ## Regression tools :
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/omerdan03/danzdstools/blob/main/Regression_tools.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/omerdan03/danzdstools/blob/master/Regression_tools.ipynb)
 
 
  - Linear Regresion
@@ -75,7 +78,7 @@ plotting functions
  
 ## Unsupervised learning :
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/omerdan03/danzdstools/blob/main/Unsupervised_learning.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/omerdan03/danzdstools/blob/master/Unsupervised_learning.ipynb)
 
 
  - number clusters (Elbow method)
