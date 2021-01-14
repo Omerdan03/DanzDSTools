@@ -33,7 +33,7 @@ plotting functions
  - categorical + categorical 
 
 
-## preprossesing tools - working progress :
+## Preprossesing tools - working progress :
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/omerdan03/danzdstools/blob/master/Preprossessing_tools.ipynb)
 
@@ -45,8 +45,7 @@ plotting functions
  - Dimensionlity Reduction with PCA
  - 
 
-
-## modle selection :
+## Modle selection :
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/omerdan03/danzdstools/blob/master/Model_selection.ipynb)
 
@@ -82,3 +81,12 @@ plotting functions
  - print clusters on 2 PCA
  - Anomaly detection (local outlier and Isolation forest)
 
+
+## Time_Series :
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/omerdan03/danzdstools/blob/master/Time_Series.ipynb)
+
+
+ - A walkthrough on solving a time series problem.
+ - ARIMA model
+ - results evaluation
