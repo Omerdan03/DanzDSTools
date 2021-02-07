@@ -1,7 +1,11 @@
 # DanzDSTools
 
-
 This repo cantained basic tools for data science.
+
+## follow the sklean_roadmap
+
+![main page](Images/sklearn_roadmap.png)
+
 
 ## SQL tools : 
 - connect_to_mysql
