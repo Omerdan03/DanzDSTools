@@ -82,7 +82,7 @@ plotting functions
  - Anomaly detection (local outlier and Isolation forest)
 
 
-## Time_Series :
+## Time_Series - working progress :
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/omerdan03/danzdstools/blob/master/Time_Series.ipynb)
 
