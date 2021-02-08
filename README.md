@@ -37,9 +37,17 @@ plotting functions
  - categorical + categorical 
 
 
-## Preprossesing tools - working progress :
+## Preprossesing tools  :
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/omerdan03/danzdstools/blob/master/Preprossessing_tools.ipynb)
+
+- random split
+- one hot incoding
+- ordinal incoding
+- Normalize feature
+- Dimensionality Reduction with PCA
+
+
 
 ## Feature engineering : 
 
