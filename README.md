@@ -8,6 +8,9 @@ This repo cantained basic tools for data science.
 
 
 ## SQL tools : 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/omerdan03/danzdstools/blob/master/SQL_tools.ipynb)
+
 - connect_to_mysql
 - send_statement
 - get_tables
